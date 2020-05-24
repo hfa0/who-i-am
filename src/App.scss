@@ -1,0 +1,26 @@
+@import "./global.scss";
+
+.app-content {
+  margin: 0 200px;
+  margin-top: 43px;
+  display: grid;
+  grid-template-columns: 70% 30%;
+  grid-template-rows: 100%;
+  grid-template-areas: "left right";
+  height: calc(100vh - 43px);
+}
+
+.app-content-left {
+  grid-area: left;
+  overflow-y: scroll;
+}
+.app-content-right {
+  grid-area: right;
+}
+
+@media only screen and (max-width: 800px) {
+  .app-content {
+    display: block;
+    margin: 0 20px;
+  }
+}

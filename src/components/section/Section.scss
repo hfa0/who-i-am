@@ -1,0 +1,16 @@
+@import "../../global.scss";
+
+.section {
+  padding: 20px 20px;
+
+}
+.section-header {
+  color: $color-third;
+  background: $color-primary;
+  padding: 5px 0;
+  font-weight: 600;
+}
+.section-body {
+  min-height: 200px;
+  padding-top: 5px;
+}

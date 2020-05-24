@@ -1,0 +1,62 @@
+@import "../../global.scss";
+
+.my-info-image-container {
+  margin-top: 50px;
+}
+.my-info-image {
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.twitter-icon {
+  fill: rgba(29, 161, 242, 1);
+}
+.instagram-icon {
+  fill: #d6249f;
+}
+.github-icon {
+  fill: #fff;
+}
+.linkedin-icon {
+  fill: #0073b1;
+}
+.stackshare-icon {
+  fill: rgb(6, 141, 254);
+}
+.npm-icon {
+  fill: #cb3837;
+}
+.stackoverflow-icon {
+  fill: #f48024;
+}
+
+.my-info-me-entry {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin: 4px 0;
+}
+
+.my-info-value,
+.my-info-label {
+  padding: 3px;
+}
+
+.my-info-value {
+  font-weight: 600;
+  color: $color-primary;
+  background-color: $color-fourth;
+}
+.account-logo {
+  cursor: pointer;
+}
+.accounts {
+  margin-top: 10px;
+  display: flex;
+  padding: 5px 5px;
+  justify-content: space-between;
+  background: black;
+  border-radius: 3px;
+}
+

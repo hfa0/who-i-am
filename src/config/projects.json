@@ -1,0 +1,38 @@
+{
+  "onlineProjects": [
+    {
+      "name": "etaDex",
+      "logo": "etadex.png",
+      "description": "Decentralized Ethereum Exchange",
+      "link": "https://staging.etadex.io"
+    }
+  ],
+  "openSourceProjects": [
+    {
+      "name": "web-crypto-ticker",
+      "logo": "",
+      "description": "A web-component for real time crypto price data. It supports multiple exchanges and pairs. Also it can be used in any web framework.",
+      "link": "https://github.com/etadexio/crypto-ticker#readme"
+    },
+    {
+      "name": "react-break-out",
+      "logo": "",
+      "description": "A simple break-out game built with react",
+      "link": "https://hfa0.github.io/react-break-out/"
+    }
+  ],
+  "projectsWorkedOn": [
+    {
+      "name": "bitmovin",
+      "logo": "bitmovin.png",
+      "description": "HTML video player for seamless live streaming. The bitmovin player runs on every device and supports features like playback of DRM protected content and ad insertion.",
+      "link": "https://bitmovin.com/"
+    },
+    {
+      "name": "hokify",
+      "logo": "hokify.png",
+      "description": "A job search app for web, android and iOs. Hokify let's you apply on job instantly and frequently sends you notifications and suggestions on new jobs and offers.",
+      "link": "https://hokify.com/"
+    }
+  ]
+}
