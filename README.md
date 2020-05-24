@@ -1,13 +1,16 @@
 # who-i-am
 
 A personal website for developers built with react. You can list the projects you worked on, write some bio about your self, and put in links to your social media, github, npm accounts.
-Fee to use from everyone.
+Fee to use for everyone.
+
+- [DEMO](http://hfa0.github.io/who-i-am)
 
 ## How to use it
 
-- Fork the project
-- rn `yarn`
-- Edit files in `src/config` and `src/global.scss`
+- fork the project
+- run `yarn`
+- edit files in `src/config` and `src/global.scss`
+- change `homepage` property in `package.json`
 - run `yarn deploy` to deploy it on github pages.
 
 ## Config files
@@ -20,7 +23,7 @@ Yo can find them in `src/config`. Please note that you need to put all the image
 ```
 {
 "name":  "Your name",
-"birthday":  "Your bithday",
+"birthday":  "Your birthday",
 "profession":  "Your profession",
 "image": "some url or image file",
 "accounts": {
