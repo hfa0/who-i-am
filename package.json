@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
+  "author": {
+    "name": "Husein Fakhir",
+    "email": "fakhir.husein@gmail.com",
+    "url": "http://hfa0.github.io/who-i-am"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
