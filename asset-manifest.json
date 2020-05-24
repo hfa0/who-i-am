@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/who-i-am/static/css/main.f44d16ee.chunk.css",
+    "main.js": "/who-i-am/static/js/main.3b14e8c7.chunk.js",
+    "main.js.map": "/who-i-am/static/js/main.3b14e8c7.chunk.js.map",
+    "runtime-main.js": "/who-i-am/static/js/runtime-main.0bd073cd.js",
+    "runtime-main.js.map": "/who-i-am/static/js/runtime-main.0bd073cd.js.map",
+    "static/js/2.43bfe37f.chunk.js": "/who-i-am/static/js/2.43bfe37f.chunk.js",
+    "static/js/2.43bfe37f.chunk.js.map": "/who-i-am/static/js/2.43bfe37f.chunk.js.map",
+    "index.html": "/who-i-am/index.html",
+    "precache-manifest.3c4cdce605157d3dd46297722e995ef1.js": "/who-i-am/precache-manifest.3c4cdce605157d3dd46297722e995ef1.js",
+    "service-worker.js": "/who-i-am/service-worker.js",
+    "static/css/main.f44d16ee.chunk.css.map": "/who-i-am/static/css/main.f44d16ee.chunk.css.map",
+    "static/js/2.43bfe37f.chunk.js.LICENSE.txt": "/who-i-am/static/js/2.43bfe37f.chunk.js.LICENSE.txt",
+    "static/media/bitmovin.png": "/who-i-am/static/media/bitmovin.30718714.png",
+    "static/media/etadex.png": "/who-i-am/static/media/etadex.9db9f841.png",
+    "static/media/hokify.png": "/who-i-am/static/media/hokify.b52c55ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd073cd.js",
+    "static/js/2.43bfe37f.chunk.js",
+    "static/css/main.f44d16ee.chunk.css",
+    "static/js/main.3b14e8c7.chunk.js"
+  ]
+}
