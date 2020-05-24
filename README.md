@@ -67,9 +67,11 @@ Yo can find them in `src/config`. Please note that you need to put all the image
 - `bio.tsx`
   Ab bio about you as html/jsx.
 
-```html
-import React from "react"; import { myAge } from "../utils"; export default () =>
-<p>Hello world, I'm {myAge()} years old</p>
+```jsx
+import React from "react";
+import { myAge } from "../utils";
+
+export default () => <p>Hello world, I'm {myAge()} years old</p>;
 ```
 
 ## Customize colors
